@@ -17,8 +17,15 @@ Create residual plots for your models, and assess heteroskedasticity using Barle
 Challenge your solution by providing insights on how you can make improvements in model improvement.
 While performing your regression analysis, you will be required to perform modeling using the given regression techniques then evaluate their performance. You will be then required to provide your observations and recommendation on the suitability of each of the tested models on their appropriateness of solving the given problem. 
 
+
+Models implemented
+
 Multiple Linear Regression
+
 Quantile Regression
+
 Ridge Regression
+
 Lasso Regression
+
 Elastic Net Regression
