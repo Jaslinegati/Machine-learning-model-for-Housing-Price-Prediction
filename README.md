@@ -4,7 +4,7 @@ based on the variables presented.
 
 Expectations Within the deliverable :
 
-Define the question, the metric for success, the context, experimental design taken.
+Objectives
 Read and explore the given dataset.
 Define the appropriateness of the available data to answer the given question.
 Find and deal with outliers, anomalies, and missing data within the dataset.
